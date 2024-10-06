@@ -1,0 +1,19 @@
+{
+  "name": "euroapp",
+  "version": "1.0.0",
+  "description": "app euromilhoes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "euro"
+  ],
+  "author": "miguels",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}

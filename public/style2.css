@@ -1,0 +1,42 @@
+html {
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#divBet {
+    background-color: rgb(189, 238, 255);
+    border-radius: 50px;
+}
+
+#divcontainer {
+    align-items: center;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+div#divBet {
+    width: 50%;
+    text-align: center;
+}
+
+ol.numbers li {
+    display: inline-block;
+    background-color: rgb(255, 255, 158);
+    width: 100px;
+    height: 75px;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#genBtn {
+    width: 200px;
+    height: 75px;
+    font-size: 20px;
+    margin: 20px;
+}
